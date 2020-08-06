@@ -1,0 +1,14 @@
+{
+  "name": "11ty-sample",
+  "version": "0.0.1",
+  "description": "Barebones Eleventy sample.",
+  "scripts": {
+    "serve": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "author": "Ajit Panigrahi",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0"
+  }
+}
